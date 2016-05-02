@@ -17,3 +17,7 @@ li.padding{
 p.profile{
   font-weight: bold;
 }
+
+div.container{
+  padding-top:100px;
+}
