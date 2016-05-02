@@ -6,7 +6,12 @@
   background-position: center 50px;
   background-size: cover;
 }
-
+h1{
+  padding-left:40px;
+}
+p{
+  padding-left:40px;
+}
 h2{
   padding-left: 20px
 }
